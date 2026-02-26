@@ -3,6 +3,7 @@
 ## 📌 Introduction
 
 The **COVID-19 Global Analysis Dashboard** is developed using **Tableau** to analyze and visualize the impact of the COVID-19 pandemic across different countries.
+<img width="1886" height="1013" alt="image" src="https://github.com/user-attachments/assets/3ee55b2f-d07d-41a3-a5d7-e3418f4a2356" />
 
 The dashboard compares:
 
